@@ -1,0 +1,11 @@
+nav{
+    background-color: rgb(13, 88, 157);
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: azure;
+}
+
+.navbar-nav {
+    text-align: end;
+}
