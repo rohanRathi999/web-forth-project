@@ -9,3 +9,6 @@ nav{
 .navbar-nav {
     text-align: end;
 }
+.main-body{
+    background-color: rgb(156, 223, 249);
+}
